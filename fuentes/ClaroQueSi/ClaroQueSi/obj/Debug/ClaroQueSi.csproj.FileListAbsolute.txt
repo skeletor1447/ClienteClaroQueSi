@@ -1,0 +1,16 @@
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\bin\Debug\ClaroQueSi.exe.config
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\bin\Debug\ClaroQueSi.exe
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\bin\Debug\ClaroQueSi.pdb
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.DashboardForm.resources
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.Properties.Resources.resources
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.csproj.GenerateResource.cache
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.csproj.CoreCompileInputs.cache
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.exe
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.pdb
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\bin\Debug\SharpUpdate.dll
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.csproj.CopyComplete
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.csprojAssemblyReference.cache
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\bin\Debug\MetroFramework.Design.dll
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\bin\Debug\MetroFramework.dll
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\bin\Debug\MetroFramework.Fonts.dll
+C:\ClaroQueSi\ClienteClaroQueSi\fuentes\ClaroQueSi\ClaroQueSi\obj\Debug\ClaroQueSi.ControlUsuario.LoginUC.resources
